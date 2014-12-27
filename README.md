@@ -10,7 +10,7 @@ git clone https://github.com/geojackassShoichi/nao_getty
 ```
 
 - 2 次にクローンしたnao_gettyというディレクトリへ行きます。
-(img/nao_getty.png)
+![dir_pth](img/nao_getty.png)
 - 3 ダウンロードしたいGigaPanの写真IDを入力して、kick.shを起動します。
   - 例えば 113792というIDの写真をダウンロードしたい場合は下記のように入力します。
 ```
