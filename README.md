@@ -2,8 +2,9 @@ nao_getty
 =========
 
 タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです。  
-[Gigapan-Downloader-and-stitcher](https://github.com/DeniR/Gigapan-Downloader-and-stitcher)
-#### 使い方
+[Gigapan-Downloader-and-stitcher](https://github.com/DeniR/Gigapan-Downloader-and-stitcher)  
+
+### 使い方
 1. まず初めに、このリポジトリをクローンします。  
   
   ```
