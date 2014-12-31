@@ -2,17 +2,20 @@ nao_getty
 =========
 
 タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです
-
+[Gigapan-Downloader-and-stitcher](https://github.com/DeniR/Gigapan-Downloader-and-stitcher)
 #### 使い方
-- 1 まず初めに、このリポジトリをクローンします。
+1. まず初めに、このリポジトリをクローンします。  
+
 ```
 git clone https://github.com/geojackassShoichi/nao_getty
 ```
 
-- 2 次にクローンしたnao_gettyというディレクトリへ行きます。
+2. 次にクローンしたnao_gettyというディレクトリへ行きます。  
+
 ![dir_pth](img/nao_getty.png)
-- 3 ダウンロードしたいGigaPanの写真IDを入力して、kick.shを起動します。
-  - 例えば 113792というIDの写真をダウンロードしたい場合は下記のように入力します。
+
+3. ダウンロードしたいGigaPanの写真IDを入力して、kick.shを起動します。
+  - 例えば 113792というIDの写真をダウンロードしたい場合は下記のように入力します。  
 ```
 sh kick.sh 113792
 ```
