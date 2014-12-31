@@ -1,7 +1,7 @@
 nao_getty
 =========
 
-タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです。  
+タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです。 
 [Gigapan-Downloader-and-stitcher](https://github.com/DeniR/Gigapan-Downloader-and-stitcher)  
 
 ### 使い方
@@ -21,7 +21,7 @@ nao_getty
 
 ##### 変更点は、2つあります。  
 1. デフォルトで最高画質のイメージをダウンロードするようにしてあることです。  
-2. 画像をtifでダウンロードすることです。  
+2. stich後の画像を.tifで出力するように指定してあります。
 
 ImageMagickが入っていない場合や、通常のPCで起動すると恐らく最後にMemoryAllocationFaildと表示されます。  
 ダウンロードだけ出来れば良いと言う場合用のもので、このコメントは無視して下さい。
