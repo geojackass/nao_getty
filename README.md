@@ -33,6 +33,8 @@ License
 
 ### Released under the MIT license
 ##### Copyright (c) 2014 Shoichi Otomo
+- twitter
+##### [@geojackass](https://twitter.com/geojackass)
 
 - read under the MIT LICENSE  
 [Open Source Initiative](http://opensource.org/licenses/mit-license.php)  
