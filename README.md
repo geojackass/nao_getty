@@ -1,7 +1,7 @@
 nao_getty
 =========
 
-タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです。　　 
+タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです。  
 [Gigapan-Downloader-and-stitcher](https://github.com/DeniR/Gigapan-Downloader-and-stitcher)  
 
 ### 使い方
@@ -32,9 +32,7 @@ License
 =======
 
 ### Released under the MIT license
-##### Copyright (c) 2014 Shoichi Otomo
-- twitter
-##### [@geojackass](https://twitter.com/geojackass)
+##### Copyright (c) 2014 Shoichi Otomo [@geojackass](https://twitter.com/geojackass)
 
 - read under the MIT LICENSE  
 [Open Source Initiative](http://opensource.org/licenses/mit-license.php)  
