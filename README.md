@@ -1,8 +1,9 @@
 nao_getty  
-produced by Shoichi Otomo [@geojackass](https://twitter.com/geojackass)
 =========
 
 タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです。  
+###### produced by Shoichi Otomo [@geojackass](https://twitter.com/geojackass)
+
 [Gigapan-Downloader-and-stitcher](https://github.com/DeniR/Gigapan-Downloader-and-stitcher)  
 
 ### 使い方
