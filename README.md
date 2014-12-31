@@ -1,6 +1,6 @@
 nao_getty  
 =========
-###### produced by Shoichi Otomo [@geojackass](https://twitter.com/geojackass)
+###### Shoichi Otomo [@geojackass](https://twitter.com/geojackass) fine scratched
 
 タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです。  
 [Gigapan-Downloader-and-stitcher](https://github.com/DeniR/Gigapan-Downloader-and-stitcher)  
