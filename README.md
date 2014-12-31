@@ -5,6 +5,7 @@ nao_getty
 [Gigapan-Downloader-and-stitcher](https://github.com/DeniR/Gigapan-Downloader-and-stitcher)
 #### 使い方
 1. まず初めに、このリポジトリをクローンします。  
+  -
 ```
 git clone https://github.com/geojackassShoichi/nao_getty
 ```  
