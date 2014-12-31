@@ -1,4 +1,4 @@
-nao_getty produced by Shoichi Otomo [@geojackass](https://twitter.com/geojackass)
+nao_getty  produced by Shoichi Otomo [@geojackass](https://twitter.com/geojackass)
 =========
 
 タムケンがgigapan downloaderが使えないとか言うので、超簡単に使えるようにカスタマイズしたものです。  
