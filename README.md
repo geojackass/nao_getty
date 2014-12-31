@@ -34,7 +34,7 @@ License
 ### MIT
 ##### Copyright (c) 2014 Shoichi Otomo
 
-- read under the MIT LICENSE
+- read under the MIT LICENSE  
 [Open Source Initiative](http://opensource.org/licenses/mit-license.php)  
 
 >
