@@ -31,7 +31,7 @@ ImageMagickが入っていない場合や、通常のPCで起動すると恐ら�
 License
 =======
 
-### MIT
+### Released under the MIT license
 ##### Copyright (c) 2014 Shoichi Otomo
 
 - read under the MIT LICENSE  
