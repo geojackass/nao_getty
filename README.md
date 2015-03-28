@@ -9,7 +9,7 @@ nao_getty
 1. まず初めに、このリポジトリをクローンします。  
   
   ```
-  git clone https://github.com/geojackassShoichi/nao_getty
+  git clone https://github.com/geojackass-shoichi/nao_getty
   ```  
 2. 次にクローンしたnao_gettyというディレクトリへ行きます。  
 ![dir_pth](img/nao_getty.png)
